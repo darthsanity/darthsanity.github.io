@@ -10,7 +10,7 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     justify-content: flex-start;
-    width: 40%;
+    width: 30%;
 }
 /*.sanity {
     display: flex;
@@ -23,6 +23,13 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
-    border: black;
     width: 60%;
+    background-color: whitesmoke;
+    padding: 5%;
+}
+
+.top-headings {
+    font-family: "Avant Garde", sans-serif;
+    font-weight: bold;
+    color: #005B80;
 }
